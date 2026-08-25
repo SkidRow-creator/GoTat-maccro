@@ -1,53 +1,53 @@
-<<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>>
+﻿ <<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>> 
 9||VIÊM HANG VỊ
 G||GERD A-LA
 L||CÓ Ổ LOÉT NÔNG D# MM ĐÁY BÁM ÍT GIẢ MẠC.
-N||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ. 
+N||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ.
 P||SINH THIẾT LÀM PYLORI TEST
 Z||VIÊM TRỢT TẠI VỊ TRÍ ĐƯỜNG Z
 BM||BÁM MÁU ĐEN
 BT||BÌNH THƯỜNG
 BU||CÓ BƯỚU SÙI LOÉT NHIỄM CỨNG D# MM. SINH THIẾT LÀM GPB.
-CR||Cách cung răng trên cm
-CU||Niêm mạc phình vị cuộn lên thực quản khi bệnh nhân nhợn ói
+CR||CÁCH CUNG RĂNG TRÊN CM
+CU||NIÊM MẠC PHÌNH VỊ CUỘN LÊN THỰC QUẢN KHI BỆNH NHÂN NHỢN ÓI
 D2||D2 BÌNH THƯỜNG
 DD||DẠ DÀY
 DS||ĐÁY SẠCH
-DZ||Đường Z cách cung răng trên 36cm
+DZ||ĐƯỜNG Z CÁCH CUNG RĂNG TRÊN 36CM
 F1|| AFS GRADE I ( L0, D1, F(+) )
-F2|| AFS GRADE II ( L0, D1-2, F(-) ) 
+F2|| AFS GRADE II ( L0, D1-2, F(-) )
 F3|| AFS GRADE III ( L1-2, D2-3, F(-) )
 F4|| AFS GRADE IV ( L>2, D3-4, F(-) ), THOÁT VỊ HOÀNH TRƯỢT
-GM||Bám giả mạc trắng
-H1||Tâm vị khép kín quanh ống soi, van chống trào ngược nhô cao, Hill độ I
-H2||Tâm vị khép nhẹ quanh ống soi, van chống trào ngược hạ thấp, Hill độ II
-H3||Tâm vị hở rộng quanh ống soi, quan sát thấy niêm mạc đoạn cuối thực quản, Hill độ III
-H4||Tâm vị hở rộng quanh ống soi, có thoát vị hoành, Hill độ IV
+GM||BÁM GIẢ MẠC TRẮNG
+H1||TÂM VỊ KHÉP KÍN QUANH ỐNG SOI, VAN CHỐNG TRÀO NGƯỢC NHÔ CAO, HILL ĐỘ I
+H2||TÂM VỊ KHÉP NHẸ QUANH ỐNG SOI, VAN CHỐNG TRÀO NGƯỢC HẠ THẤP, HILL ĐỘ II
+H3||TÂM VỊ HỞ RỘNG QUANH ỐNG SOI, QUAN SÁT THẤY NIÊM MẠC ĐOẠN CUỐI THỰC QUẢN, HILL ĐỘ III
+H4||TÂM VỊ HỞ RỘNG QUANH ỐNG SOI, CÓ THOÁT VỊ HOÀNH, HILL ĐỘ IV
 HP||NỘI SOI LẠI KIỂM TRA SAU ĐIỀU TRỊ HP.
 HV||HANG VỊ
 KH||NỘI SOI LẠI KIỂM TRA SAU ĐIỀU TRỊ HP.
 LN||CÓ Ổ LOÉT NÔNG D# MM ĐÁY BÁM ÍT GIẢ MẠC.
-LS||Có ổ loét sâu d# mm, bờ phù nề nhô cao, đáy bám giả mạc trắng.
-LT||Niêm mạc viêm đỏ phù nề, rải rác có vài vết viêm trợt nhỏ.
-NM||Niêm mạc viêm sung huyết
-P0||Niêm mạc viêm đỏ phù nề mức độ nhẹ. Sinh thiết làm Pylori test
-P1||Niêm mạc viêm đỏ phù nề mức độ vừa. Sinh thiết làm Pylori test
-P2||Niêm mạc viêm đỏ phù nề mức độ nhiều. Sinh thiết làm Pylori test
-PO||Có polyp không cuống d# mm.
-PP||Niêm mạc viêm đỏ phù nề. Sinh thiết làm Pylori test
+LS||CÓ Ổ LOÉT SÂU D# MM, BỜ PHÙ NỀ NHÔ CAO, ĐÁY BÁM GIẢ MẠC TRẮNG.
+LT||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ , RẢI RÁC CÓ VÀI VẾT VIÊM TRỢT NHỎ.
+NM||NIÊM MẠC VIÊM SUNG HUYẾT
+P0||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ MỨC ĐỘ NHẸ. SINH THIẾT LÀM PYLORI TEST
+P1||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ MỨC ĐỘ VỪA. SINH THIẾT LÀM PYLORI TEST
+P2||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ MỨC ĐỘ NHIỀU. SINH THIẾT LÀM PYLORI TEST
+PO||CÓ POLYP KHÔNG CUỐNG D# MM.
+PP||NIÊM MẠC VIÊM ĐỎ PHÙ NỀ. SINH THIẾT LÀM PYLORI TEST
 PV||PHÌNH VỊ
 SA||SA NIÊM MẠC PHÌNH VỊ
-SD||Vài sọc dài sung huyết, sinh thiết làm Pylori test
-SH||Niêm mạc sung huyết rải rác.
-SL||Có vết sẹo loét cũ.
-SP||Niêm mạc viêm sung huyết. Sinh thiết làm Pylori test.
-ST||Sinh thiết hang vị làm Pylori test
+SD||VÀI SỌC DÀI SUNG HUYẾT, SINH THIẾT LÀM PYLORI TEST
+SH||NIÊM MẠC SUNG HUYẾT RẢI RÁC.
+SL||CÓ VẾT SẸO LOÉT CŨ.
+SP||NIÊM MẠC VIÊM SUNG HUYẾT . SINH THIẾT LÀM PYLORI TEST.
+ST||SINH THIẾT HANG VỊ LÀM  PYLORI TEST
 TH||THÂN VỊ
-TL||Niêm mạc trơn láng
+TL||NIÊM MẠC TRƠN LÁNG
 TQ||THỰC QUẢN
 TV||TÂM VỊ
 V0||VIÊM PHÙ NỀ NHẸ HANG VỊ
-VD||NIÊM MẠC VIÊM ĐỎ LỐM ĐỐM. 
+VD||NIÊM MẠC VIÊM ĐỎ LỐM ĐỐM.
 VL||VIÊM LOÉT
 VP||VIÊM PHÙ NỀ HANG VỊ
 VS||VIÊM SUNG HUYẾT HANG VỊ
@@ -60,31 +60,31 @@ Z2||ĐƯỜNG Z CÓ DẠNG HÌNH LƯỠI < 3CM, ZAP ĐỘ 2
 CBD||DẠ DÀY ĐÃ CẮT BÁN PHẦN, NỐI VỊ TRÀNG KIỂU BILLROTH II. - TÂM VỊ: BÌNH THƯỜNG. - THÂN VỊ: BÌNH THƯỜNG. SINH THIẾT LÀM PYLORI TEST. - MIỆNG NỐI VỊ TRÀNG: THÔNG TỐT.
 CDD||DẠ DÀY ĐÃ CẮT BÁN PHẦN - MIỆNG NỐI  VỊ TRÀNG THÔNG TỐT
 CPO||NỘI SOI CẮT POLYP
-CVL||CÓ VÀI VẾT LOÉT NÔNG NHỎ KT  2 - 4 MM , BỜ VẾT LOÉT MỀM MẠI  
-GER||VIÊM THỰC QUẢN TRÀO NGƯỢC ( GERD A - LA , AFS  I ) 
+CVL||CÓ VÀI VẾT LOÉT NÔNG NHỎ KT  2 - 4 MM , BỜ VẾT LOÉT MỀM MẠI
+GER||VIÊM THỰC QUẢN TRÀO NGƯỢC ( GERD A - LA , AFS  I )
 HCP||HẸN NỘI SOI CẮT POLYP
 HTT||HÀNH TÁ TRÀNG
 SLC||SẸO LOÉT CŨ
 STB||SINH THIẾT LÀM GPB.
 STN||TRÊN ĐƯỜNG Z CÓ VẾT SẸO TRÀO NGƯỢC.
 T12||+ TÁ TRÀNG D1-D2: Bình thường.
-TVL||TÂM VỊ :  CÓ VÀI VẾT LOÉT  TRỢT NHỎ ,  AFS I 
-UDN||U dưới niêm d# mm, bề mặt niêm trơn láng, bờ giới hạn rõ.
+TVL||TÂM VỊ :  CÓ VÀI VẾT LOÉT  TRỢT NHỎ ,  AFS I
+UDN||U DƯỚI NIÊM D# MM, BỀ MẶT NIÊM TRƠN LÁNG, BỜ GIỚI HẠN RÕ.
 VDD||VIÊM DẠ DÀY
 VHV||VIÊM HANG VỊ SUNG HUYẾT
-VLN||VIÊM , LOÉT NÔNG HANG VỊ 
-VLT||VIÊM, LOÉT TRỢT HANG VỊ - HÀNH TÁ TRÀNG 
+VLN||VIÊM , LOÉT NÔNG HANG VỊ
+VLT||VIÊM, LOÉT TRỢT HANG VỊ - HÀNH TÁ TRÀNG
 VTQ||VIÊM THỰC QUẢN TRÀO NGƯỢC
-HVTV||VIÊM HANG VỊ , LOÉT TRỢT TÂM VỊ  
-MNVT||MIỆNG NỐI VỊ TRÀNG KIỂU BILLROTH II  LÀNH VÀ THÔNG TỐT 
-NSKT||NỘI SOI KIỂM TRA SAU  01 THÁNG 
+HVTV||VIÊM HANG VỊ , LOÉT TRỢT TÂM VỊ
+MNVT||MIỆNG NỐI VỊ TRÀNG KIỂU B II  LÀNH VÀ THÔNG TỐT
+NSKT||NỘI SOI KIỂM TRA SAU  01 THÁNG
 TNTQ||NIÊM MẠC THỰC QUẢN QUANH VỊ TRÍ ĐƯỜNG Z CÓ VẾT VIÊM TRỢT D# 5MM,
 VHVI||VIÊM HANG VỊ
-VTCS||VIÊM TEO DẠ DÀY MẠN MỨC ĐỘ KIMURA C.SINH THIẾT  LÀM GPB VÀ PYLORI TEST.
+VTCS||VIÊM TEO DẠ DÀY MẠN MỨC ĐỘ KIMURA C .SINH THIẾT  LÀM GPB VÀ PYLORI TEST.
 XTTM||XỬ TRÍ: THẮT VÒNG THUN VÀO CÁC TĨNH MẠCH THỰC QUẢN DÃN QUANH TÂM VỊ VÀ DỌC CÁC TĨNH MẠCH DÃN
 DTMTQ||DÃN TĨNH MẠCH THỰC QUẢN ĐỘ
 HVTCS||NIÊM MẠC HANG VỊ VIÊM TEO, RẢI RÁC CÓ NHIỀU TỔN THƯƠNG DẠNG CHUYỂN SẢN RUỘT CHIẾM # % HANG VỊ. SINH THIẾT 3 MẪU LÀM GPB ( LỌ 2). SINH THIẾT LÀM PYLORI TEST.
 STNTQ||VẾT SẸO TRÀO NGƯỢC THỰC QUẢN
-VHVPN||VIÊM PHÙ NỀ HANG VỊ 
-VHVTT||VIÊM HANG VỊ - HÀNH TÁ TRÀNG 
-VHVTV||VIÊM HANG VỊ - HÀNH TÁ TRÀNG , LOÉT TRỢT TÂM VỊ  
+VHVPN||VIÊM PHÙ NỀ HANG VỊ
+VHVTT||VIÊM HANG VỊ - HÀNH TÁ TRÀNG
+VHVTV||VIÊM HANG VỊ - HÀNH TÁ TRÀNG , LOÉT TRỢT TÂM VỊ
